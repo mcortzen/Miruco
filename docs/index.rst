@@ -20,3 +20,5 @@ Læs også nærmere om muligheder for at få protein som veganer: https://miruco
 Cortzen Digital partners with https://pendula.dk/ which is a virtual reality (VR) company with speciality in learning and organizational change.
 
 Check out some of Pendulas solutions at their website. They have developed many solutions for both private businesses and the Danish governmential institutions.
+
+Feel free to check out our other project here: https://rungstedtand.readthedocs.io
