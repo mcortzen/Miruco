@@ -9,6 +9,8 @@ Hvis du leder efter teknologi, VR, marketing eller akademisk skrivning, så er d
 
 Kører du over en sikker forbindelse på dit internet? Her kan du få en god og billig VPN: https://miruco.dk/sikkerhed-maaske-den-bedste-billige-vpn-god-vpn/
 
+Se også denne billige VPN artikel http://oprindelse.dk/oprindelse-af-billig-vpn-lav-pris/
+
 Husk også, at der er mange udbydere. Vælg derfor noget, der er underbygget ordentligt.
 
 **Veganisme og protein (Danish)**
