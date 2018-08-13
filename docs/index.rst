@@ -29,4 +29,8 @@ Check out some of Pendulas solutions at their website. They have developed many 
 
 Læs også om virtual reality og læring hos http://murerfirma-esbjerg.dk/ - her er der lavet et indlæg omkring virtual reality og uddannelse. Der er mange muligheder i VR baseret på dette indspark fra Murerfirma Esbjerg, der tager udgangspunkt i Miruco.
 
+**Virtual reality har mange muligheder (Danish)** 
+
+Der er mange muligheder i forhold til VR og mediets anvendelsesmuligheder. Dette kan der læses mere om hos Billige Koder: https://billige-koder.dk/koeb/pendula-solutions-hvad-er-vr-virtual-reality/ - Hos Billige Koder har Pendula Solutions givet et bud på alle de mange muligheder der er i VR.
+
 Feel free to check out our other project here: https://rungstedtand.readthedocs.io
