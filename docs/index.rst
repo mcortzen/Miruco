@@ -34,3 +34,7 @@ Læs også om virtual reality og læring hos http://murerfirma-esbjerg.dk/ - her
 Der er mange muligheder i forhold til VR og mediets anvendelsesmuligheder. Dette kan der læses mere om hos Billige Koder: https://billige-koder.dk/koeb/pendula-solutions-hvad-er-vr-virtual-reality/ - Hos Billige Koder har Pendula Solutions givet et bud på alle de mange muligheder der er i VR.
 
 Feel free to check out our other project here: https://rungstedtand.readthedocs.io
+
+**Steam gift card (Danish)** 
+
+Check out my universe for gifts and treats at Billige Koder. Get a Steam gift card for Christmas or Easter: https://billige-koder.dk/produkt/gavekort-til-steam/
